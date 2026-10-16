@@ -8,16 +8,6 @@ with AI-powered summarize/translate/grammar/notes/keywords tools on top.
 - **Frontend:** React 19 + TypeScript + Tailwind CSS (SPA)
 - **Architecture:** layered (Routes → Controllers → Services → Repositories → DB/Providers), OOP, provider abstractions, demo mode
 
-> **Note on this environment:** this repository is built to run two ways. The
-> `backend/` folder is a real, compilable C++ REST server you build with
-> CMake and run locally (see §9/§10). Because this particular hosted preview
-> sandbox only executes the Vite/React frontend, the frontend ships with an
-> automatic **Demo Mode fallback** (`src/lib/api.ts`) that reproduces the
-> exact same REST contract using the browser's own Web Speech API and
-> `localStorage`, so every workflow below is fully clickable right now even
-> without the C++ server running. Point `VITE_API_BASE_URL` at a running
-> instance of the real backend to switch to live mode.
-
 ---
 
 ## 1. Features
