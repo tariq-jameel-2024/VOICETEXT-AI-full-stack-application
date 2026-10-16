@@ -1,0 +1,51 @@
+# ninja log v7
+10	112	8138612660713662	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/CMakeFiles/cmake.verify_globs	17ff1cf2d10b77fa
+667	6144	8138596794472388	tests/CMakeFiles/test_auth.dir/unit/test_auth.cpp.obj	e3d1be347d454fd5
+6148	7395	8138596849284636	tests/test_auth.exe	c4271001afa1ff3b
+139	10153	8138611688379689	tests/CMakeFiles/test_transcript_repository.dir/integration/test_transcript_repository.cpp.obj	4cbfc539874c76c8
+140	20311	8128272454283703	tests/CMakeFiles/test_validation.dir/unit/test_validation.cpp.obj	88d05c10f805bf9a
+183	807	8128277851659464	tests/test_validation.exe	a55d05c1ec04303
+10156	10664	8138611788535858	tests/test_transcript_repository.exe	a553b56208c65516
+131	49037	8138611688297382	CMakeFiles/voicetext_server.dir/backend/main.cpp.obj	9f6a377e34dd656
+49038	49749	8138612177373358	voicetext_server.exe	19288ba967ed83a1
+113	8335	8138612742313682	build.ninja	4da2907693a928ba
+113	8335	8138612742313682	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/cmake_install.cmake	4da2907693a928ba
+113	8335	8138612742313682	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/_deps/crow-build/cmake_install.cmake	4da2907693a928ba
+113	8335	8138612742313682	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/tests/cmake_install.cmake	4da2907693a928ba
+113	8335	8138612742313682	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/CTestTestfile.cmake	4da2907693a928ba
+113	8335	8138612742313682	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/tests/CTestTestfile.cmake	4da2907693a928ba
+88	130	8138612744901914	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/CMakeFiles/cmake.verify_globs	17ff1cf2d10b77fa
+8	65	8138613239470614	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/CMakeFiles/cmake.verify_globs	17ff1cf2d10b77fa
+83	18736	8138613240223474	tests/CMakeFiles/test_hardening.dir/integration/test_hardening.cpp.obj	9c9ae21548c2a04b
+18738	19049	8138613426777197	tests/test_hardening.exe	e4aa29a5d10dbc12
+21	131	8138623538418390	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/CMakeFiles/cmake.verify_globs	17ff1cf2d10b77fa
+6	42	8138624222618798	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/CMakeFiles/cmake.verify_globs	17ff1cf2d10b77fa
+56	34987	8138624223116247	CMakeFiles/voicetext_server.dir/backend/main.cpp.obj	9f6a377e34dd656
+34988	35483	8138624572442685	voicetext_server.exe	19288ba967ed83a1
+5	58	8138625301068564	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/CMakeFiles/cmake.verify_globs	17ff1cf2d10b77fa
+72	10613	8138625301726217	tests/CMakeFiles/test_hardening.dir/integration/test_hardening.cpp.obj	9c9ae21548c2a04b
+10615	10899	8138625407166594	tests/test_hardening.exe	e4aa29a5d10dbc12
+34	240	8138631173448591	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/CMakeFiles/cmake.verify_globs	17ff1cf2d10b77fa
+468	18204	8138631177777544	tests/CMakeFiles/test_hardening.dir/integration/test_hardening.cpp.obj	9c9ae21548c2a04b
+18206	18840	8138631355171596	tests/test_hardening.exe	e4aa29a5d10dbc12
+257	61334	8138631175680990	CMakeFiles/voicetext_server.dir/backend/main.cpp.obj	9f6a377e34dd656
+61336	62306	8138631786457420	voicetext_server.exe	19288ba967ed83a1
+57	145	8138680170539882	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/CMakeFiles/cmake.verify_globs	17ff1cf2d10b77fa
+38	131	8138685268120111	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/CMakeFiles/cmake.verify_globs	17ff1cf2d10b77fa
+594	21375	8138685273679167	tests/CMakeFiles/test_transcript_repository.dir/integration/test_transcript_repository.cpp.obj	4cbfc539874c76c8
+21378	23010	8138685481516208	tests/test_transcript_repository.exe	a553b56208c65516
+608	36819	8138685273821859	tests/CMakeFiles/test_hardening.dir/integration/test_hardening.cpp.obj	9c9ae21548c2a04b
+36820	37526	8138685635942781	tests/test_hardening.exe	e4aa29a5d10dbc12
+298	96428	8138685270715957	CMakeFiles/voicetext_server.dir/backend/main.cpp.obj	9f6a377e34dd656
+96429	98175	8138686232032520	voicetext_server.exe	19288ba967ed83a1
+49	175	8138796151948953	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/CMakeFiles/cmake.verify_globs	17ff1cf2d10b77fa
+10	61	8138796480038782	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/CMakeFiles/cmake.verify_globs	17ff1cf2d10b77fa
+15	94	8138797066883552	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/CMakeFiles/cmake.verify_globs	17ff1cf2d10b77fa
+122	47588	8138797067948437	CMakeFiles/voicetext_server.dir/backend/main.cpp.obj	9f6a377e34dd656
+47592	49012	8138797542650960	voicetext_server.exe	19288ba967ed83a1
+7	51	8138810832557057	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/CMakeFiles/cmake.verify_globs	17ff1cf2d10b77fa
+76	75163	8138810833244010	CMakeFiles/voicetext_server.dir/backend/main.cpp.obj	9f6a377e34dd656
+75167	75746	8138811584161449	voicetext_server.exe	19288ba967ed83a1
+44	249	8138813397780420	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/CMakeFiles/cmake.verify_globs	17ff1cf2d10b77fa
+280	58808	8138813400144378	CMakeFiles/voicetext_server.dir/backend/main.cpp.obj	9f6a377e34dd656
+58810	59318	8138813985448046	voicetext_server.exe	19288ba967ed83a1

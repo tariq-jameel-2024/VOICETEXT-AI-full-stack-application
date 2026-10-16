@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DASIO_STANDALONE -DVOICETEXT_VERSION=\\\"1.0.0\\\" -I\"C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/backend/include\" -I\"C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/_deps/crow-src/include\" -isystem \"C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/_deps/ex-standaloneasio-populate1234/asio-asio-1-28-2/asio/include\" -O2 -std=gnu++17 -o CMakeFiles\\voicetext_server.dir\\backend\\main.cpp.obj -c \"C:\\Users\\PC vision\\OneDrive\\Documents\\VOICETEXT-AI-full-stack-application\\backend\\main.cpp\"",
+  "file": "C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/backend/main.cpp",
+  "output": "C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/CMakeFiles/voicetext_server.dir/backend/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -I\"C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/backend/include\" -O2 -std=gnu++17 -o tests\\CMakeFiles\\test_auth.dir\\unit\\test_auth.cpp.obj -c \"C:\\Users\\PC vision\\OneDrive\\Documents\\VOICETEXT-AI-full-stack-application\\tests\\unit\\test_auth.cpp\"",
+  "file": "C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/tests/unit/test_auth.cpp",
+  "output": "C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/tests/CMakeFiles/test_auth.dir/unit/test_auth.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -I\"C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/backend/include\" -O2 -std=gnu++17 -o tests\\CMakeFiles\\test_validation.dir\\unit\\test_validation.cpp.obj -c \"C:\\Users\\PC vision\\OneDrive\\Documents\\VOICETEXT-AI-full-stack-application\\tests\\unit\\test_validation.cpp\"",
+  "file": "C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/tests/unit/test_validation.cpp",
+  "output": "C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/tests/CMakeFiles/test_validation.dir/unit/test_validation.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -I\"C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/backend/include\" -O2 -std=gnu++17 -o tests\\CMakeFiles\\test_transcript_repository.dir\\integration\\test_transcript_repository.cpp.obj -c \"C:\\Users\\PC vision\\OneDrive\\Documents\\VOICETEXT-AI-full-stack-application\\tests\\integration\\test_transcript_repository.cpp\"",
+  "file": "C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/tests/integration/test_transcript_repository.cpp",
+  "output": "C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/tests/CMakeFiles/test_transcript_repository.dir/integration/test_transcript_repository.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -I\"C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/backend/include\" -O2 -std=gnu++17 -o tests\\CMakeFiles\\test_hardening.dir\\integration\\test_hardening.cpp.obj -c \"C:\\Users\\PC vision\\OneDrive\\Documents\\VOICETEXT-AI-full-stack-application\\tests\\integration\\test_hardening.cpp\"",
+  "file": "C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/tests/integration/test_hardening.cpp",
+  "output": "C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/tests/CMakeFiles/test_hardening.dir/integration/test_hardening.cpp.obj"
+}
+]

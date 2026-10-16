@@ -1,0 +1,37 @@
+# ninja log v7
+16	323	8128284614925871	crow-populate-prefix/src/crow-populate-stamp/crow-populate-mkdir	e94b43cc48f6b97f
+16	323	8128284614925871	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-mkdir	e94b43cc48f6b97f
+325	66887	8128285280598729	crow-populate-prefix/src/crow-populate-stamp/crow-populate-download	9890d091448285ec
+325	66887	8128285280598729	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-download	9890d091448285ec
+7	604	8128288975906504	crow-populate-prefix/src/crow-populate-stamp/crow-populate-update	cb9ca3e5d9a1ecab
+7	604	8128288975906504	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-update	cb9ca3e5d9a1ecab
+604	781	8128288983482073	crow-populate-prefix/src/crow-populate-stamp/crow-populate-patch	1d072fbc89a290e
+604	781	8128288983482073	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-patch	1d072fbc89a290e
+781	953	8128288985192126	crow-populate-prefix/src/crow-populate-stamp/crow-populate-configure	a3435f872a5594d7
+781	953	8128288985192126	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-configure	a3435f872a5594d7
+953	1206	8128288987661038	crow-populate-prefix/src/crow-populate-stamp/crow-populate-build	525f4bd566f70ae0
+953	1206	8128288987661038	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-build	525f4bd566f70ae0
+1207	1418	8128288989850817	crow-populate-prefix/src/crow-populate-stamp/crow-populate-install	a9882f2f91b6293e
+1207	1418	8128288989850817	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-install	a9882f2f91b6293e
+1418	1584	8128288991519975	crow-populate-prefix/src/crow-populate-stamp/crow-populate-test	f13a315b7ebc4c
+1418	1584	8128288991519975	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-test	f13a315b7ebc4c
+1585	1836	8128288994016631	CMakeFiles/crow-populate-complete	dd4a4585d2c4d4a3
+1585	1836	8128288994016631	crow-populate-prefix/src/crow-populate-stamp/crow-populate-done	dd4a4585d2c4d4a3
+1585	1836	8128288994016631	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/_deps/crow-subbuild/CMakeFiles/crow-populate-complete	dd4a4585d2c4d4a3
+1585	1836	8128288994016631	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-done	dd4a4585d2c4d4a3
+4	343	8138612691682561	crow-populate-prefix/src/crow-populate-stamp/crow-populate-update	cb9ca3e5d9a1ecab
+4	343	8138612691682561	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-update	cb9ca3e5d9a1ecab
+344	471	8138612696245338	crow-populate-prefix/src/crow-populate-stamp/crow-populate-patch	1d072fbc89a290e
+344	471	8138612696245338	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-patch	1d072fbc89a290e
+471	586	8138612697367405	crow-populate-prefix/src/crow-populate-stamp/crow-populate-configure	a3435f872a5594d7
+471	586	8138612697367405	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-configure	a3435f872a5594d7
+587	702	8138612698513653	crow-populate-prefix/src/crow-populate-stamp/crow-populate-build	525f4bd566f70ae0
+587	702	8138612698513653	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-build	525f4bd566f70ae0
+702	826	8138612699794131	crow-populate-prefix/src/crow-populate-stamp/crow-populate-install	a9882f2f91b6293e
+702	826	8138612699794131	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-install	a9882f2f91b6293e
+826	935	8138612700864324	crow-populate-prefix/src/crow-populate-stamp/crow-populate-test	f13a315b7ebc4c
+826	935	8138612700864324	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-test	f13a315b7ebc4c
+935	1151	8138612702937515	CMakeFiles/crow-populate-complete	dd4a4585d2c4d4a3
+935	1151	8138612702937515	crow-populate-prefix/src/crow-populate-stamp/crow-populate-done	dd4a4585d2c4d4a3
+935	1151	8138612702937515	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/_deps/crow-subbuild/CMakeFiles/crow-populate-complete	dd4a4585d2c4d4a3
+935	1151	8138612702937515	C:/Users/PC vision/OneDrive/Documents/VOICETEXT-AI-full-stack-application/build-ucrt/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-done	dd4a4585d2c4d4a3

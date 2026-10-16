@@ -1,0 +1,9 @@
+build*/**
+_deps/**
+**/.git/**
+node_modules/**
+dist/**
+storage/**
+*.db
+*.log
+repomix-output.xml

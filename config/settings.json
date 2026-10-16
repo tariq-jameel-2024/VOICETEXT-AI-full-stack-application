@@ -1,0 +1,29 @@
+{
+  "languages": [
+    { "code": "en", "label": "English", "speechCode": "en-US" },
+    { "code": "ur", "label": "Urdu", "speechCode": "ur-PK" },
+    { "code": "hi", "label": "Hindi", "speechCode": "hi-IN" },
+    { "code": "ps", "label": "Pashto", "speechCode": "ps-AF" },
+    { "code": "ar", "label": "Arabic", "speechCode": "ar-SA" }
+  ],
+  "voices": [
+    { "id": "default-female", "label": "Aria (Female)", "language": "en", "gender": "female" },
+    { "id": "default-male", "label": "Adam (Male)", "language": "en", "gender": "male" },
+    { "id": "neutral-1", "label": "Nova (Neutral)", "language": "en", "gender": "neutral" },
+    { "id": "ur-female", "label": "Amina (Female)", "language": "ur", "gender": "female" },
+    { "id": "hi-male", "label": "Rohan (Male)", "language": "hi", "gender": "male" },
+    { "id": "ps-female", "label": "Zarlasht (Female)", "language": "ps", "gender": "female" },
+    { "id": "ar-male", "label": "Khalid (Male)", "language": "ar", "gender": "male" }
+  ],
+  "providers": {
+    "stt": ["mock"],
+    "tts": ["mock"],
+    "ai": ["mock"]
+  },
+  "settings": {
+    "maxAudioUploadMB": 25,
+    "maxTtsCharacters": 5000,
+    "defaultSpeechSpeed": 1.0,
+    "defaultAudioRetentionDays": 30
+  }
+}

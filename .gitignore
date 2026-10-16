@@ -1,0 +1,44 @@
+# --- Build artifacts ---------------------------------------------------
+build/
+out/
+dist/
+node_modules/
+*.o
+*.obj
+*.exe
+*.dll
+*.dylib
+*.so
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# --- Secrets -------------------------------------------------------------
+config/.env
+.env
+.env.local
+*.pem
+*.key
+
+# --- Database / runtime data ----------------------------------------------
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# --- User-generated storage -------------------------------------------------
+storage/audio/uploads/*
+storage/audio/generated/*
+storage/transcripts/*
+storage/exports/*
+!storage/**/.gitkeep
+
+# --- Editor / OS -----------------------------------------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Logs -------------------------------------------------------------------
+*.log

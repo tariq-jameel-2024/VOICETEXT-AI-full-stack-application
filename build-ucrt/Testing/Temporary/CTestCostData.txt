@@ -1,0 +1,5 @@
+AuthTests 12 0.0586195
+ValidationTests 12 0.0045307
+TranscriptRepositoryTests 12 0.0768032
+HardeningTests 4 3.18935
+---
